@@ -1,10 +1,8 @@
 import Head from "next/head";
 
 import Navbar from "@/components/navbar/Navbar";
-import Logo from "@/components/logo.js";
-import Homepage from "@/components/home/homepage";
-
-export default function Home() {
+import GamesSection from "@/components/games/games"
+export default function Games() {
   return (
     <>
       <Head>
@@ -21,7 +19,7 @@ export default function Home() {
         <link rel="manifest" href="/favicon/site.webmanifest" />
       </Head>
       <Navbar />
-      <Homepage />
+      <GamesSection />
     </>
   );
 }
