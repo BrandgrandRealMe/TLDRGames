@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+@font-face {
+    // font-family: "mania", sans-serif;
+    font-family: 'mania';
+    src: url('/fonts/mania/font.woff2') format('woff2'),
+        url('/fonts/mania/font.woff') format('woff'),
+        url('/fonts/mania/font.ttf') format('truetype'),
+        url('/fonts/mania/font.svg#font') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 @import '@/styles/colors.scss';
 
 * {
@@ -8,7 +21,7 @@
 }
 
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: "Tiny5", sans-serif;
     background-color: $primary-background;
 }
 

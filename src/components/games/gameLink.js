@@ -1,10 +1,10 @@
 import Link from "next/link";
 import React, { useState } from 'react';
 
-const Gamelink = ({ text, href, desc, active }) => {
+const Gamelink = ({ text, href, desc, size }) => {
     return (
-        <Link title={desc} href={href}>
-            <div className={`nav__link`}>{text}</div>
+        <Link className="button" title={desc} href={href}>
+            <div style={{ fontSize: `${size * 10}px` }}>{text}</div>
         </Link>
     );
 };
