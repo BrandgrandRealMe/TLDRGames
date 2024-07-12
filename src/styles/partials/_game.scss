@@ -1,0 +1,7 @@
+@import '@/styles/colors.scss';
+@import '@/styles/partials/_navbar.scss';
+
+.gameContainer {
+    width: 100%;
+    height: calc(100vh - ($header-height + $header-bottom_border));
+}
