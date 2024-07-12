@@ -2,7 +2,7 @@ import Link from "next/link";
 import React, { useState } from 'react';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHouse, faDonate, faGamepad, faPlusSquare } from '@fortawesome/free-solid-svg-icons';
+import { faHouse, faDonate, faGamepad, faPlusSquare, faClockRotateLeft } from '@fortawesome/free-solid-svg-icons';
 import { faDiscord } from '@fortawesome/free-brands-svg-icons';
 
 
@@ -12,7 +12,8 @@ const NavItem = ({ text, href, target, icon, hint, active }) => {
         donate: faDonate,
         gamepad: faGamepad,
         add: faPlusSquare,
-        discord: faDiscord
+        discord: faDiscord,
+        changelog: faClockRotateLeft
     };
 
     const selectedIcon = availableIcons[icon];

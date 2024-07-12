@@ -1,24 +1,19 @@
 import Head from "next/head";
 
 import Navbar from "@/components/navbar/Navbar";
+import HeadMeta from "@/components/headMeta";
 import GamesSection from "@/components/games/games"
+import Searchbar from "@/components/games/searchbar"
+import GAMES from "@/utils/databases/GAMES.js"; 
+
+const meta = {title: "TL;DR Games | Games"};
+
 export default function Games() {
   return (
     <>
-      <Head>
-        <title>TL;DR Games</title>
-        <meta
-          name="description"
-          content="Play all sorts of games here!"
-        />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon/favicon.ico" />
-        <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
-        <link rel="manifest" href="/favicon/site.webmanifest" />
-      </Head>
+      <HeadMeta {...meta} />
       <Navbar />
+      <Searchbar data={GAMES} />
       <GamesSection />
     </>
   );

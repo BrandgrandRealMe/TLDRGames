@@ -1,9 +1,5 @@
 import Gamelink from "@/components/games/gameLink";
-
-const GAMES = [
-    { text: "Home", desc: "Go to the homepage", href: "/", size: "5" },
-];
-
+import GAMES from "@/utils/databases/GAMES.js"; 
 
 const GamesSection = () => {
 

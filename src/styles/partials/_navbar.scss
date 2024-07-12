@@ -34,7 +34,7 @@ header {
             }
             .headerText {
                 font-size: calc($header-height / 4);
-                font-family: "mania", sans-serif;
+                font-family: "PixelifySans", sans-serif;
             }
         }
 
@@ -95,7 +95,7 @@ header {
             align-items: center;
         }
 
-        @media screen and (min-width: 768px) {
+        @media screen and (min-width: 1500px) {
             .nav__menu-bar {
                 display: none;
             }

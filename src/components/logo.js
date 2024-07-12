@@ -6,7 +6,7 @@ const Logo = () => {
         <Image
             src={LogoSVG}
             alt="A Sheild with TLDR on it."
-            className="Logo circle"
+            className="Logo"
         />
     );
 };

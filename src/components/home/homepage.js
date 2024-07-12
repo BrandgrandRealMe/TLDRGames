@@ -8,7 +8,7 @@ const Homepage = () => {
         <div className="Homepage">
             <div className="Header">
                 <div className="Logo"><Logo /></div>
-                <div className="Title">TL;DR Games</div>
+                <div className="Title">Games</div>
             </div>
             <div className="Buttons">
                 <Link href="/games" className="button">Games</Link>

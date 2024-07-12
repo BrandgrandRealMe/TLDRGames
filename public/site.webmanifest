@@ -1,0 +1,21 @@
+{
+    "name": "TL;DR Games",
+    "description": "TL;DR Games is your one-stop shop for quick and engaging games! Our website boasts a clean and simple interface, so you can jump right in!",
+    "short_name": "TLDRGames",
+    "start_url": "/",
+    "lang": "en-US",
+    "theme_color": "#2ecc71",
+    "display": "browser",
+    "icons": [
+      {
+        "src": "/favicon/color/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/favicon/color/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
