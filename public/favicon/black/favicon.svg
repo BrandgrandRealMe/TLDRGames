@@ -49,49 +49,31 @@
        xml:space="preserve"
        id="text1"
        style="font-size:12px;font-family:'Aeogo Pixellated';-inkscape-font-specification:'Aeogo Pixellated, Normal';white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000" />
-    <text
-       xml:space="preserve"
-       style="font-size:385.79px;font-family:'Aeogo Pixellated';-inkscape-font-specification:'Aeogo Pixellated, Normal';fill:#000000;stroke-width:32.1491"
-       x="-0.56512207"
-       y="256.00031"
-       id="text2"><tspan
-         sodipodi:role="line"
-         id="tspan2"
-         x="-0.56512207"
-         y="256.00031"
-         style="stroke-width:32.1491">T</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:385.79px;font-family:'Aeogo Pixellated';-inkscape-font-specification:'Aeogo Pixellated, Normal';fill:#000000;stroke-width:32.1491"
-       x="257.87415"
-       y="256.00031"
-       id="text3"><tspan
-         sodipodi:role="line"
-         id="tspan3"
-         x="257.87415"
-         y="256.00031"
-         style="stroke-width:32.1491">L</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:385.79px;font-family:'Aeogo Pixellated';-inkscape-font-specification:'Aeogo Pixellated, Normal';fill:#000000;stroke-width:32.1491"
-       x="-32.21196"
-       y="512.00031"
-       id="text4"><tspan
-         sodipodi:role="line"
-         id="tspan4"
-         x="-32.21196"
-         y="512.00031"
-         style="stroke-width:32.1491">D</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:385.79px;font-family:'Aeogo Pixellated';-inkscape-font-specification:'Aeogo Pixellated, Normal';fill:#000000;stroke-width:32.1491"
-       x="223.78804"
-       y="512.00031"
-       id="text5"><tspan
-         sodipodi:role="line"
-         id="tspan5"
-         x="223.78804"
-         y="512.00031"
-         style="stroke-width:32.1491">R</tspan></text>
+    <path
+       d="M 1.4901161e-8,64.047171 V 25.618869 H 268.80974 v 38.428302 z m 0,-1.130244 V 1.6540289e-6 H 168.02963 V 62.916927 Z M 102.2871,256.00031 V 32.023586 h 62.91692 V 256.00031 Z"
+       id="text2"
+       style="font-size:385.79px;font-family:'Aeogo Pixellated';-inkscape-font-specification:'Aeogo Pixellated, Normal';fill:#2ecc71;stroke-width:32.1491"
+       aria-label="T" />
+    <path
+       d="m 288.02415,230.38144 v -38.4283 h 172.73898 v 38.4283 z M 268.81,211.16729 V 0 h 62.91692 v 211.16729 z m 64.04716,44.83302 v -62.91693 h 127.90597 v 62.91693 z m 0,0 v -62.91693 z"
+       id="text3"
+       style="font-size:385.79px;font-family:'Aeogo Pixellated';-inkscape-font-specification:'Aeogo Pixellated, Normal';fill:#2ecc71;stroke-width:32.1491"
+       aria-label="L"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <path
+       d="m 32.023584,320.04717 v -38.4283 H 236.78615 v 38.4283 z M 217.572,480.54184 V 300.83302 h 38.4283 V 480.54184 Z M 32.023584,318.91693 V 256 H 159.92955 v 62.91693 z M -1.1175871e-6,512.00031 V 288.02359 H 62.916924 v 223.97672 z m 64.0471691175871,0 V 449.08338 H 191.95313 v 62.91693 z m -25.618867,0 V 449.08338 H 223.97672 v 62.91693 z"
+       id="text4"
+       style="font-size:385.79px;font-family:'Aeogo Pixellated';-inkscape-font-specification:'Aeogo Pixellated, Normal';fill:#2ecc71;stroke-width:32.1491"
+       aria-label="D" />
+    <path
+       d="m 288.02358,320.04717 v -38.4283 h 204.76257 v 38.4283 z M 396.7154,464.9068 v -55.19359 h 96.07075 V 464.9068 Z M 295.37017,428.73898 V 390.49906 H 512.0003 v 38.23992 z M 288.02358,318.91693 V 256 h 127.90597 v 62.91693 z M 256,512.00031 V 288.02359 h 62.91692 V 512.00031 Z M 449.08338,409.71321 V 301.96326 h 62.91692 v 107.74995 z m 0,102.2871 v -52.36798 h 62.91692 v 52.36798 z"
+       id="text5"
+       style="font-size:385.79px;font-family:'Aeogo Pixellated';-inkscape-font-specification:'Aeogo Pixellated, Normal';fill:#2ecc71;stroke-width:32.1491"
+       aria-label="R" />
+    <path
+       d="m 434.80687,239.03317 v -83.33724 h 67.86745 v 83.33724 z m 42.41716,16.96687 v -33.18519 h 33.93372 v 33.18519 z M 424.57685,83.337246 V 3.8743019e-6 H 492.4443 V 83.337246 Z"
+       id="text6"
+       style="font-size:511.002px;font-family:'Aeogo Pixellated';-inkscape-font-specification:'Aeogo Pixellated, Normal';stroke-width:42.5835"
+       aria-label=";" />
   </g>
 </svg>

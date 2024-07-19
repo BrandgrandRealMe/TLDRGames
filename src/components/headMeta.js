@@ -15,11 +15,11 @@ const HeadMeta = ( meta ) => {
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <meta name="theme-color" content="#2ecc71" />
 
-            <link rel="icon" href="/favicon/color/favicon.ico" media="(prefers-color-scheme: light)"/>
-            <link rel="icon" href="/favicon/color/favicon.svg" media="(prefers-color-scheme: light)"/>
-            <link rel="apple-touch-icon" sizes="180x180" href="/favicon/color/apple-touch-icon.png" media="(prefers-color-scheme: light)"/>
-            <link rel="icon" type="image/png" sizes="32x32" href="/favicon/color/favicon-32x32.png" media="(prefers-color-scheme: light)"/>
-            <link rel="icon" type="image/png" sizes="16x16" href="/favicon/color/favicon-16x16.png" media="(prefers-color-scheme: light)"/>
+            <link rel="icon" href="/favicon/black/favicon.ico" media="(prefers-color-scheme: light)"/>
+            <link rel="icon" href="/favicon/black/favicon.svg" media="(prefers-color-scheme: light)"/>
+            <link rel="apple-touch-icon" sizes="180x180" href="/favicon/black/apple-touch-icon.png" media="(prefers-color-scheme: light)"/>
+            <link rel="icon" type="image/png" sizes="32x32" href="/favicon/black/favicon-32x32.png" media="(prefers-color-scheme: light)"/>
+            <link rel="icon" type="image/png" sizes="16x16" href="/favicon/black/favicon-16x16.png" media="(prefers-color-scheme: light)"/>
         
             <link rel="icon" href="/favicon/white/favicon.ico" media="(prefers-color-scheme: dark)"/>
             <link rel="icon" href="/favicon/white/favicon.svg" media="(prefers-color-scheme: dark)"/>
