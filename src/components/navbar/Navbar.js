@@ -9,9 +9,7 @@ const MENU_LIST = [
     { text: "Home", icon: "home", hint: "Go to the homepage", href: "/", target: "_self" },
     { text: "Games", icon: "gamepad", hint: "View the games", href: "/games", target: "_self" },
     { text: "Submit game", icon: "add", hint: "Submit a game to be added", href: "https://opnform.com/forms/suggest-a-game-thaife", target: "_blank" },
-    { text: "Donate", icon: "donate", hint: "Donate to the sites developer", href: "https://ko-fi.com/brandonthedev", target: "_blank" },
-    { text: "Join Server", icon: "discord", hint: "Join the discord server", href: "https://discord.gg/2c7Dq6AD6a", target: "_blank" },
-    { text: "Changelog", icon: "changelog", hint: "View the changelog", href: "https://tldr-games.noticeable.news", target: "_blank" }
+    { text: "Donate", icon: "donate", hint: "Donate to the sites developer", href: "https://ko-fi.com/brandonthedev", target: "_blank" }
 ];
 
 
